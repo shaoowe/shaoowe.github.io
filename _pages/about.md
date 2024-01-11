@@ -10,11 +10,11 @@ redirect_from:
 
 I'm a second-year master from [College of Smart Energy](https://www.senergy.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). My research interests include nuclear energy and nuclear technology engineering, accident tolerant fuel (ATF), nanocrystalline diamond (NCD), and heat transfer.
 
-I am very fortunate to be advised by [Prof. M. Song] from [College of Smart Energy](https://www.senergy.sjtu.edu.cn/), Shanghai Jiao Tong University.
+I am very fortunate to be advised by Prof. M. Song from [College of Smart Energy](https://www.senergy.sjtu.edu.cn/), Shanghai Jiao Tong University.
 
 You can find my CV here: [Ningkang Zhao's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email: k_icifer@sjtu.edu.cn] / [Wechat: Kicifer](../images/wechat.jpg).
+[Email](k_icifer@sjtu.edu.cn) / [Wechat: Kicifer](../images/wechat.jpg).
 
 A data-driven personal website
 ======
