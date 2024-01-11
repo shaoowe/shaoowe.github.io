@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Ningkang Zhao"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,7 +14,7 @@ I am very fortunate to be advised by [Prof. M. Song] from [College of Smart Ener
 
 You can find my CV here: [Ningkang Zhao's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](k_icifer@sjtu.edu.cn) / [Wechat](../images/wechat.jpg).
+[Email:k_icifer@sjtu.edu.cn](k_icifer@sjtu.edu.cn) / [Wechat:Kicifer](../images/wechat.jpg).
 
 A data-driven personal website
 ======
