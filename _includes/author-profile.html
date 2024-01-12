@@ -110,7 +110,9 @@
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
       {% endif %}
       {% if author.orcid %}
-        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i>0009-0001-6229-4636</a></li>
+      {% assign orcid_parts = author.orcid | split: "/" %}
+      {% assign orcid_number = orcid_parts[3] %}
+        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i>{{orcid_number}}</a></li>
       {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
